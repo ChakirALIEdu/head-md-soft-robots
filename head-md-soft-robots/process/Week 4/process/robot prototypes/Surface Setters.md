@@ -1,4 +1,4 @@
-# Wall Primer or Surface Setters
+# This is my wall, it was made for me
 
 ## Concept
 A colony of walking standing sticks that hold paper curtains. Those walking curtains become malleable and interactive room separators (living paravent).

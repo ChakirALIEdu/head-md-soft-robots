@@ -6,7 +6,7 @@ A tower with multiple tendrils connected to light and vibrating pallet, sprawled
 At the epicenter of the space you spend the most of your time in.
 
 ## For who is it?
-Users of all ages and backgrounds, that wish to have a more organic, living relationship with their house and how they live.
+Users of all ages and backgrounds, that wish to have a more organic, living relationship with their house and how they live. All ages, children mostly.
 
 ## How does it work? 
 The tower, the center of the colony, records motion around a room over a course of time, via its many tendrils. After it is done recording, it emits messages in the forms of sounds and symbols, communicating with the user(s) with the language of their movements. 

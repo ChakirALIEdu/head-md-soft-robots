@@ -7,7 +7,7 @@ A colony of robotic sections that latch onto cables at home, and use their spine
 On the ground, wide open areas in which cables may reside in open view
 
 ## For who is it?
-People who typically trip on cables a lot.
+People who typically trip on cables a lot. Diabetic people, like my dad, who trips a lot.
 
 ## How does it work?
 Each section is equipped with small motion sensors or proximity sensors and detects how close the user is. The closer they get, the more the spines move in a direction opposite to the user, scurrying away and making noise as they do. 
