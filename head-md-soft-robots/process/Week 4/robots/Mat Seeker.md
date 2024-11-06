@@ -1,13 +1,13 @@
 # Mat Seeker
 
 ## Concept
-A mechanical rug that always point towards a person's or an object's Geo-localization selected by the user.
+A soft robotic rug that always point towards a person's or an object's Geo-localization selected by the user.
 
 ## Where does it exist? 
 Meditative areas, open spaces like living rooms, places where rugs would be.
 
 ## For who is it?
-People that want their home to be inhabited by themselves or someone else, even in their absence. Alternatively, people that want a prayer mat that always points towards the Qibla, quickly and precisely.
+People that want their home to be inhabited by themselves or someone else, even in their absence. Adults on the go. People that want to make their house feel lived in while away. Alternatively, people that want a prayer mat that always points towards the Qibla, quickly and precisely.
 
 ## How does it work? 
 Along the sides of the rug are different geo-localizations sensors that send signals to the little legs on each of its corners to move. It calibrates and rotates itself from its center to turn and always face a specific direction. The Geo-localisation data it tracks can be sent to be anything; a moving object or a fixed position.

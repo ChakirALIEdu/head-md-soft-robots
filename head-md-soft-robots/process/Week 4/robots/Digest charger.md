@@ -6,7 +6,7 @@ A sea anemone-like creature that takes hold of your electrical appliances that a
 Near outlets and plugs.
 
 ## For who is it?
-Those that are plagued with battery anxiety or dependency benefit most from it.
+Those that are plagued with battery anxiety or dependency benefit most from it. Teenagers mostly.
 
 ## How does it work? 
 The malleable surface of the Digest Charger swallows the machine and uses wireless charging systems to charge the battery of those appliances or wearable.

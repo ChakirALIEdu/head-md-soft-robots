@@ -1,4 +1,4 @@
-# Wall Primer
+# Wall Primer or Surface Setters
 
 ## Concept
 A colony of walking standing sticks that hold paper curtains. Those walking curtains become malleable and interactive room separators (living paravent).

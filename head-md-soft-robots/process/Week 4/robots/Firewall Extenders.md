@@ -7,7 +7,7 @@ Malleable cardboard sticks are attached to the end of flat surfaces, like door f
 On the borders of flat surfaces. Walls, tables, etc.
 
 ##  For who is it?
-Those that desire to extend the surface area of their workspace and those that wish to create new "doors" to set further boundaries.
+Those that desire to extend the surface area of their workspace and those that wish to create new "doors" to set further boundaries. Young adults that live with multiple people and struggle with their own privacy and intimate spaces.
 
 ## How does it work? 
 Countless sticks are adorned on the edge of, for example, a table. Those sticks rise up when you get nearer, due to its motion censors detecting your closeness. They rise up to 90°. They remain this way for a while and can be locked into place. When approached suddenly, they tilt upwards to 270° and deploy their cushions hidden underneath, protecting people from hitting themselves on the edge of a table.
