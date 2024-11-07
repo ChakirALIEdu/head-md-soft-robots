@@ -26,9 +26,10 @@ Observations focused on shared living spaces, mine or friends', trying to answer
 _The culprits were always related to **cables and outlets** in some way._
 
  I explored how individuals perceive and interact with cables in their daily routines. (Through observations, user surveys, user interviews, observational drawings, and mapping exercises)
-
-![image](img/Img2.jpg)
+ 
 ![image](img/IMG_5688.jpg)
+![image](img/Img2.jpg)
+
 
 
 Survey responses expressed mixed approaches to cable management, with participants either tolerating visible cables until they became obstructive, or keeping them out of sight altogether. Responses also highlighted dependency on battery life, particularly for essential devices, impacting daily habits and positioning within spaces (including the placement of furnitures).
