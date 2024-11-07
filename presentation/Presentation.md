@@ -79,8 +79,8 @@ They move up and down the closer and faster someone gets nearer, playing with an
 ## Next Steps
 
 Focus on refining the prototypes to emphasize on the following points:
-- Answering the questions better - Am I trying to erase the rules, ennhance them? Change the way we move? Should I create a new space, devoid of any cables? What words do we use to defines those areas?
+- Answering the questions better - Am I trying to erase the rules, enhance them? Change the way we move? Should I create a new space, devoid of any cables? What words do we use to defines those areas?
 
-- What would the world look like with new movements around cables? Pulling, stretching, retracting, loosening, cutting, squashing...?
+- What would the world look like with new words related to cables? Pulling, stretching, retracting, loosening, cutting, squashing...?
 
 - Emphasize user interaction.
