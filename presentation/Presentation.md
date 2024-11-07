@@ -12,8 +12,6 @@ Our dependency to cables
 
 ## Research Question
 
-What roles do cables play in visualising/defining boundaries and dependencies to energy?
-
 Within domestic contexts, how does cable placement and battery dependency affect our movements, anxiety, and spatial awareness? 
 
 
