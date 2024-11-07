@@ -14,7 +14,7 @@ Our relationship with cables
 
 What roles do cables play in visualising/defining boundaries and dependencies to energy?
 
-How does battery dependency and cable placement affect our movement, anxiety, and spatial awareness within domestic contexts? TRhe way we understand/define waht it means to be at home etc
+Within domestic contexts, how does cable placement and battery dependency affect our movements, anxiety, and spatial awareness? 
 
 
 
