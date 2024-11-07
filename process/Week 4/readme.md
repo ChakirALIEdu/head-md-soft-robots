@@ -1,0 +1,3 @@
+## References
+
+References given: Last Gaston Lagaffe, Samuel Bianchini (Snakable), Bluetooth not being the solution (for example with musical devices, not a soft solution), Cables in India (prevalence, hanging everywhere), Telegraph and Banyan Trees...
