@@ -27,13 +27,15 @@ _The culprits were always related to **cables and outlets** in some way._
 
  I explored how individuals perceive and interact with cables in their daily routines. (Through observations, user surveys, user interviews, observational drawings, and mapping exercises)
 
+![image](img/Img2.jpg)
+![image](img/IMG_5688.jpg)
+
+
 Survey responses expressed mixed approaches to cable management, with participants either tolerating visible cables until they became obstructive, or keeping them out of sight altogether. Responses also highlighted dependency on battery life, particularly for essential devices, impacting daily habits and positioning within spaces (including the placement of furnitures).
  
  People generally expressed a preference for flexibility, durability, and cable length, with some showing interest in new designs, but only if they improved convenience.
 
 ![image](img/datacsv.PNG)
-![image](img/Img2.jpg)
-![image](img/IMG_5688.jpg)
 
 
 ## Insightss
