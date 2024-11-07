@@ -26,7 +26,7 @@ Observations focused on shared living spaces, mine or friends', trying to answer
 _The culprits were always related to **cables and outlets** in some way._
 
  I explored how individuals perceive and interact with cables in their daily routines. (Through observations, user surveys, user interviews, observational drawings, and mapping exercises)
- 
+
 ![image](img/IMG_5688.jpg)
 ![image](img/Img2.jpg)
 
@@ -39,7 +39,7 @@ Survey responses expressed mixed approaches to cable management, with participan
 ![image](img/datacsv.PNG)
 
 
-## Insightss
+## Insights
 
 - _Cables can serve as implicit spatial dividers,_ invisible boundaries that divide areas into sections...
 - _Battery anxiety shapes user behavior,_ with people developing routines and stress around charging devices...
