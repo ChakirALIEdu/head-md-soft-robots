@@ -67,7 +67,7 @@ A sea anemone-like creature that takes hold of your electrical appliances that a
 ---
 
 ### **Boundary Extenders**
-Malleable cardboard sticks extend the boundaries of walls or tables. 
+Malleable appendages extend the boundaries of walls or tables. 
 They move up and down the closer and faster someone gets nearer, playing with and reshaping the boundaries of their intervention on the world. 
 
 ![storyboard](img/Firewall%20Extenders.png)
