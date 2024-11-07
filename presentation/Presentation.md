@@ -4,7 +4,7 @@
 
 
 ## Area of Intervention
-Our relationship with cables
+Our dependency to cables
 
 ![front image](img/Img.jpg)
 
