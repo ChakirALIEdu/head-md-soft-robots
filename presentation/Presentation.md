@@ -23,9 +23,9 @@ Within domestic contexts, how does cable placement and battery dependency affect
 Observations focused on shared living spaces, mine or friends', trying to answer the following question:
 ### Why are objects placed where they are?
 
-_The culprit was always related to **cables and outlets** in some way._
+_The culprits were always related to **cables and outlets** in some way._
 
-Through observations, user surveys, user interviews, observational drawings, and mapping exercises, I explored how individuals perceive and interact with cables in their daily routines.
+ I explored how individuals perceive and interact with cables in their daily routines. (Through observations, user surveys, user interviews, observational drawings, and mapping exercises)
 
 Survey responses expressed mixed approaches to cable management, with participants either tolerating visible cables until they became obstructive, or keeping them out of sight altogether. Responses also highlighted dependency on battery life, particularly for essential devices, impacting daily habits and positioning within spaces (including the placement of furnitures).
  
