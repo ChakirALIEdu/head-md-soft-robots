@@ -82,3 +82,98 @@ Focus on refining the prototypes to emphasize on the following points:
 - What would the world look like with new words related to cables? Pulling, stretching, retracting, loosening, cutting, squashing...?
 
 - Emphasize user interaction.
+
+
+## New Storyboards
+
+### The Herd
+![prototype](img/the_herd_and_herder.png)
+A lego-like structure of accumulating ports for electric currents, interactive as well.
+
+### The Electric Puddy
+![prototype](img/the_electric_puddy.png)
+
+A soft and malleable conductive material.
+
+
+### The Hub
+![prototype](img/the_hub.png)
+
+A electric hub, made up of tendrils that will latch on to appliances to feed them.
+
+List of words and interactions that exist in nature that are interesting:
+
+Stretch
+Squash
+Retract
+Cut
+Spill
+Spit
+Grip
+Rip
+Tear
+Gnaw
+Hide
+Camouflage
+Wrestle
+Jolt
+Blend
+Engulf
+Pack
+Regenerate
+Duplicate
+Brooding
+To latch onto
+To wrap around
+Digesting
+To coddle
+Latch
+Swarm
+Pierce
+Shed
+Bloom
+Erode
+Nurture
+Anchor
+Pulse
+Glow
+Hibernate
+Split
+Synthesize
+Cluster
+Drip
+Absorb
+Oscillate
+Filter
+Constrict
+Embrace
+Propagate
+Encircle
+Stalk
+Cluster
+Burrow
+Ensnare
+Seep
+Uncoil
+Weave
+Scatter
+Echo
+Ripple
+Hibernate
+Suspend
+Implant
+Assimilate
+Envelop
+Hibernate
+Bond
+Infuse
+Scavenge
+Suffuse
+Oscillate
+Latch
+Hibernate
+Permeate
+Coalesce
+Molt
+Sprout
+Persist 
