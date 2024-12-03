@@ -36,6 +36,10 @@ Incorporate direct quotes from Karim and Lise that illustrate their experiences 
 
 --> Add relevant excerpts from the articles to ground the discussion in broader trends.
 
+This may prevent users from expressing themselves in an authentic manner, as they are prompted to align what they express with the commercial goals of the platform. Ungless, Markl, et Ross, « Experiences of Censorship on TikTok Across Marginalised Identities ».
+We found that often content some may find offensive was one of the most commonly censored content types for non-marginalised groups (i.e. men and straight people). For example, straight people reported higher rates of removal than bisexual, gay or asexual people, and it was the most commonly removed content type; men reported higher rates of content removal than women and nonbinary people, and again it was the most commonly removed content type. ---> presence of bias
+
+
 # Conclusion
 
  Recap the main points: the role of algorithms in shaping what we see, how biases manifest, and the impact on self-expression.
@@ -76,3 +80,4 @@ Introduce question: perception of censorship algorithms and the effect of censor
 
 ---> conclusion
 --> open ended conclusion. case study too small and narrow to get an answer 
+-- pas de jugement moral --> il faudrait... il serait pertinent de --- comment filtrer tout ça correctement -- la place de la liberté d'expression ---> est-ce que le problème est plus large que ça --> limite de poster ?
