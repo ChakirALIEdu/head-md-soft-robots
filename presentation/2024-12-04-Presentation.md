@@ -2,7 +2,7 @@
 - Soft Robots
 - Master Media Design + O2R
 
-## Pinette
+## Little Gnomes
 No longer "just cables"...
 
 ## Research Question / area of research
@@ -47,3 +47,5 @@ Pinettes are an interactive spine that users can latch onto cables of varying si
 ## Next Steps
 
 Definitely change the shape a bit more... After that, think of ways to do as many movements as possible with the robot, using minimal materials...
+I'd like to give each shape a personnality.
+he detection mechanism has been finished and tuned up. Now the only thing left is figuring out how a single servo can move all those parts. 
