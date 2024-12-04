@@ -9,7 +9,7 @@ No longer "just cables"...
 Within domestic contexts, how does cable placement and battery dependency affect our movements, anxiety, and spatial awareness? 
 
 ## The Pitch
-Pinettes are cable attachments that aim to turn cables into interactive design objects, giving them life within domestic spaces.
+Little Gnomes are cable attachments that aim to turn cables into interactive design objects, giving them life within domestic spaces.
 
 ![image](img/QUILT%20BETA2.png)
 ![image](img/QUILT_BETA.png)
@@ -30,9 +30,9 @@ Eventually, I came up with this cone shape.
 
 ## Your key prototype
 
-Pinettes are an interactive spine that users can latch onto cables of varying sizes. They're a colony of objects that detect movements within their areas. Once they do, they begin emitting different behaviors depending on people's placements, the way they treat cables, etc... It exists to enforce boundaries created by cables. Previously implicit, I aim to make them explicit and perhaps ludicrous.
+The Little Gnomes are an interactive spine that users can latch onto cables of varying sizes. They're a colony of objects that detect movements within their areas. Once they do, they begin emitting different behaviors depending on people's placements, the way they treat cables, etc... It exists to enforce boundaries created by cables. Previously implicit, I aim to make them explicit and perhaps ludicrous.
 
-![image](img/cones.jpg)
+![image](img/images.jpg)
 ![image](img/3D%201.png)
 
 
