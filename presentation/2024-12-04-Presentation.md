@@ -11,8 +11,7 @@ Within domestic contexts, how does cable placement and battery dependency affect
 ## The Pitch
 Little Gnomes are cable attachments that aim to turn cables into interactive design objects, giving them life within domestic spaces.
 
-![image](img/QUILT%20BETA2.png)
-![image](img/QUILT_BETA.png)
+![image](img/QUILT_BETAlpha.png)
 
 ## Prototyping research
 
